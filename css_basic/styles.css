@@ -15,3 +15,10 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+header {
+    background-color: rgb(250, 248, 248);
+    border-color: rgba(0, 0, 0, 0.719);
+}
+article {
+    background-color: rgb(224, 177, 177);
+}
